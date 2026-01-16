@@ -39,4 +39,4 @@ With a foundation in **Robotics** and **Data Analytics**, I specialize in taking
 
 ### 📫 Connect with me
 * **Email:** [madan.tiwary26@gmail.com](mailto:madan.tiwary26@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/madan-gopal-tiwary-b04aab165/]
+* **LinkedIn:** https://www.linkedin.com/in/madan-gopal-tiwary-b04aab165/
