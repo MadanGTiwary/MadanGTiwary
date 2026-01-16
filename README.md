@@ -26,9 +26,9 @@ With a foundation in **Robotics** and **Data Analytics**, I specialize in taking
 ---
 
 ### 🚀 Featured AI Projects
-* **[Autonomous RAG Pipeline for Technical Documentation]**
-* **[Fine-tuned QLoRA for IT Support Tickets]**
-* **[PDF QnA chatbot]**
+* **Autonomous RAG Pipeline for Technical Documentation**
+* **Fine-tuned QLoRA for IT Support Tickets**
+* **PDF QnA chatbot**
 ---
 
 ### 📈 What I'm Doing Now
