@@ -1,5 +1,5 @@
 # 👋 I'm Madan Gopal Tiwary
-### AI Engineer | Machine Learning & Autonomous Systems
+### Aspiring AI Engineer | Machine Learning & Autonomous Systems
 
 I am an aspiring **AI Engineer** focused on building and deploying scalable, production-ready intelligent systems. My expertise lies at the intersection of **LLM Orchestration**, **Computer Vision**, and **Real-time Data Processing**. 
 
