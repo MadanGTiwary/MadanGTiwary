@@ -46,9 +46,9 @@ With a foundation in **Robotics** and **Data Analytics**, I specialize in taking
 ---
 
 ### 📈 What I'm Doing Now
-* 🔭 **Currently:** Working on multi-agent RL and fine-tuning Large Language Models (LLMs) for domain-specific tasks.
-* 🌱 **Learning:** Advanced Reinforcement Learning.
-* 🎓 **Looking for:** MSc thesis opportunities in RL and multi-robot systems.
+* 🔭 **Currently:** Working on ML-based solutions for consulting partner at Euromonitor International
+* 🌱 **Learning:** Reinforcement Learning
+* 🎓 **Looking for:** MSc thesis opportunities in ML-based systems, RL and robotics.
 
 ---
 
